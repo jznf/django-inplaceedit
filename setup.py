@@ -27,7 +27,7 @@ setup(
     author="Pablo Martin",
     author_email="goinnn@gmail.com",
     description="Django application that allows you to inline edition of some data from the database",
-    long_description=(read('README.rst') + '\n\n' + read('CHANGES.rst')),
+    long_description="Django application that allows you to inline edition of some data from the database",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Framework :: Django',
